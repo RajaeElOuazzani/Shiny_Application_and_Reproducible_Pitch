@@ -10,6 +10,7 @@ Part 1 of the project containes the following files:
 
 Part 2 of the project containes the following files:
 - Reproductible_pitch.Rmd
+- Reproductible_pitch.md
 - Reproductible_pitch.html
 
 
