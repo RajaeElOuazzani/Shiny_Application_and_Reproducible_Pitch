@@ -9,8 +9,8 @@ Part 1 of the project containes the following files:
 - Plot.png
 
 Part 2 of the project containes the following files:
-- Reproductible_patch.Rmd
-- Reproductible_patch.html
+- Reproductible_pitch.Rmd
+- Reproductible_pitch.html
 
 
 My project contains 3 tabs:
