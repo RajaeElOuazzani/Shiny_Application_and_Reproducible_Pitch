@@ -6,6 +6,8 @@ My project contains 3 tabs:
 
 1- Plot:
 
+![alt text](Plot.png)
+
 
 
 
